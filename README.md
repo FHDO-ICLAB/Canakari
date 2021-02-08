@@ -1,7 +1,7 @@
 # CANakari CAN-Controller
 
 Der CANakari Controller wurde im Jahr 2000 im Rahmen einer Diplomarbeit an der [TH-Köln](https://www.th-koeln.de/startseite_16.php) entwickelt. Es handelt sich hierbei um eine CAN 2.0B Controller Implementierung in VHDL. Über die Jahre hinweg wurden von diversen Studenten der [FH-Dortmund](https://www.fh-dortmund.de/de/fb/3/index.php) und [TH-Köln](https://www.th-koeln.de/startseite_16.php) verschiedene Modifikationen vorgenommen und die Funktionalität erweitert.
-Mittlerweile existieren drei verschiedene Versionen des CANnakari Controllers:
+Mittlerweile existieren drei verschiedene Versionen des CANakari Controllers:
 * [VHDL Implementierung](../main/Vhdl)
 * [Verilog Implementierung](../main/Verilog)
 * [Verilog Implementierung, tripliziert](../main/Verilog%20triplicated)
