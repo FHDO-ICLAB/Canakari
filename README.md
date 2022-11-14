@@ -6,7 +6,7 @@ Mittlerweile existieren drei verschiedene Versionen des CANakari Controllers:
 * [Verilog Implementierung](../main/Verilog)
 * [Verilog Implementierung, tripliziert](../main/Verilog%20triplicated)
 <br/>
-Weitere Informationen können der [CANakari Dokumentation](https://github.com/mkaragou/Canakari/blob/main/Documentation_Canakari.pdf) entnommen werden.
+Weitere Informationen können der [TH-Köln](https://www.th-koeln.de/startseite_16.php) entnommen werden.
 <br/>
 <br/>
 
