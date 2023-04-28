@@ -1,4 +1,4 @@
-#AXI4-Lite bridge to CANakari CAN-Controller
+# AXI4-Lite bridge to CANakari CAN-Controller
 
 This is an extension of the CANakari CAN-Controller with an AXI4-Lite interface for integration in a Xilinx Zynq SoC.
 The interface has been created and used as an IP with a Zedboard.
